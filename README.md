@@ -21,6 +21,7 @@ Proxmox VE 是一個開放原始碼的虛擬化環境，基於 Debian Linux 所�
     - 新增管理帳號，關閉 root 之 SSH 權限
     - Let's Encrypt 憑證安裝
 
+- 網路設定
 - 虛擬機器
     - Windows :
         1. Windows XP (Windows Server 2003)
