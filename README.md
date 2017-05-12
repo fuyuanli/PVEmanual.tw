@@ -5,7 +5,7 @@ Proxmox VE 使用者手冊
 ## Proxmox VE 簡介
 Proxmox VE 是一個開放原始碼的虛擬化環境，基於 Debian Linux 所開發，支援「虛擬機」(Kernel-based Virtual Machine)、「Linux 軟體容器」(Linux Containers)，Proxmox VE 包含：網頁控制台、命令列工具，且提供 REST API 功能以串接第三方程式。
 
-此文件為大家共同撰寫，歡迎大家共同修改編輯，以降低導入 Proxmox VE 的導入難度，共同邁向 OpenSource 的美好~。 
+使用 Github 大家共同編輯，以降低導入 Proxmox VE 的導入難度，共同邁向 OpenSource 的美好~。 
 
 ## 目錄
 
