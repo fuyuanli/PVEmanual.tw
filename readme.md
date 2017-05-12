@@ -10,8 +10,8 @@ Proxmox VE 是一個開放原始碼的虛擬化環境，基於 Debian Linux 所�
 ## 目錄
 - [系統安裝](doc/01.installation.md)
     - [行前準備](doc/01.installation.md#行前準備)
-    - [開始安裝-初階版](doc/01.installation.md#開始安裝-初階版)
-    - [開始安裝-進階版](doc/01.installation.md#開始安裝-進階版)
+    - [開始安裝—初階版](doc/01.installation.md#開始安裝—初階版)
+    - [開始安裝—進階版](doc/01.installation.md#開始安裝—進階版)
 
 - 首要設定
     - 防火牆設定
