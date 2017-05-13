@@ -7,6 +7,8 @@ Proxmox VE 是一個開放原始碼的虛擬化環境，基於 Debian Linux 所�
 
 使用 Github 方便大家共同編輯，以降低導入 Proxmox VE 的導入難度，一起推廣 Proxmox VE ~XD。 
 
+可以的話請在 [TO-DO List](https://hackmd.io/MwRmHYGME4ENYLSwBzgCYICwDYBmAjBaTVIgVmDNxGOWAAYBTIA=) 注紀想寫的章節，避免重複到
+
 ## 目錄
 
 ### 一、Proxmox VE 基礎
