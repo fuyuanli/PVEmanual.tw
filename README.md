@@ -17,9 +17,10 @@ Proxmox VE 是一個開放原始碼的虛擬化環境，基於 Debian Linux 所�
     - [開始安裝(進階版)](doc/01.installation.advance.md)
 
 - 首要設定
-    - 防火牆設定
-    - 新增管理帳號，關閉 root 之 SSH 權限
-    - Let's Encrypt 憑證安裝
+    - [移除訂閱提示](doc/02.settings.message.md)
+    - [防火牆設定](doc/02.settings.firewall.md)
+    - [新增管理帳號，關閉 root 之 SSH 權限](doc/02.settings.adminuser.md)
+    - [Let's Encrypt 憑證安裝](doc/02.settings.ssl.md)
 
 - 網路設定
 - 虛擬機器
