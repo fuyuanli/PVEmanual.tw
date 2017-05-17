@@ -37,9 +37,8 @@ Proxmox VE 是一個開放原始碼的虛擬化環境，基於 Debian Linux 所�
 *   虛擬機器
 
     *   Windows :
-        1.  Windows XP (Windows Server 2003)
-        2.  Windows 7 (Windows Server 2008)
-        3.  Windows 10 (Windows Server 2016)
+        *  [Windows XP (Windows Server 2003)](doc/04.guest.installation.WinXP.md)
+        *  [Windows 7, 8, 8.1, 10(Windows Server 2008 ~ Windows Server 2016)](doc/04.guest.installation.Win7after.md)
     *   Linux :
         1.  Ubuntu
         2.  CentOS
