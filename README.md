@@ -29,11 +29,11 @@ Proxmox VE 是一個開放原始碼的虛擬化環境，基於 Debian Linux 所�
     *   [Let's Encrypt 憑證安裝](doc/02.settings.ssl.md)
 *   網路設定
 
-    *   [Linux Bridge (Linux 橋接)](doc/03.network.Linux-Bridge.md)
-    *   [Linux Bonding (Linux 網路聚合)](doc/03.network.Linux-Bonding.md)
-    *   [OVS Bridge (Open vSwitch Bridge)](doc/03.network.OVS-Bridge.md)
-    *   [OVS Bonding (Open vSwitch Bonding)](doc/03.network.OVS-Bonding.md)
-    *   [OVS IntPort](doc/03.network.OVS-IntPort.md)
+    *   ~~[Linux Bridge (Linux 橋接)](doc/03.network.Linux-Bridge.md)~~
+    *   ~~[Linux Bonding (Linux 網路聚合)](doc/03.network.Linux-Bonding.md)~~
+    *   ~~[OVS Bridge (Open vSwitch Bridge)](doc/03.network.OVS-Bridge.md)~~
+    *   ~~[OVS Bonding (Open vSwitch Bonding)](doc/03.network.OVS-Bonding.md)~~
+    *   ~~[OVS IntPort](doc/03.network.OVS-IntPort.md)~~
 *   虛擬機器
 
     *   Windows :
